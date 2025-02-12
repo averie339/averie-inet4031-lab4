@@ -1,16 +1,15 @@
-# INET4031 - Module 6 - Working with Remote Systems
+# INET4031 - Lab 4
 
-## Instructions, files, code for Lab 6.
+This repository contains the Lab 4 website project for the INET 4031 course. The purpose of this repository is to demonstrate the use of HTML, CSS, and JavaScript to create an interactive webpage. The main feature of the webpage is a light bulb that can be turned on and off using JavaScript.
 
-What if you aren't nearby the computer you need to work on?
+## Files Included
+- `webpagewithjs.html`: The main HTML file for the webpage.
+- `pic_bulbon.gif`: Image of the light bulb turned on.
+- `pic_bulboff.gif`: Image of the light bulb turned off.
 
-Up until this point, our Lab activities have been accomplished by doing them on our laptops.
-
-In this activity we explore the concept of "servers."  Which typically aren't located where we are.
-
-We have to connect to them remotely
-
-This Lab explores that concept.
+## How to Use
+1. Open `webpagewithjs.html` in a web browser.
+2. Click the buttons to control the light bulb.
 
 
 
